@@ -1,0 +1,20 @@
+All Notes
+0,1,2,3,4,5,6
+1512649
+6
+CNTT K15
+4,6
+Đại học
+4,5
+Đồ án LTW
+0,2,3,6
+Động lực
+3,6
+Học tập
+0,2,6
+Ngày buồn
+0,2
+Thanh xuân
+1,4,5
+Vui vẻ
+1,5

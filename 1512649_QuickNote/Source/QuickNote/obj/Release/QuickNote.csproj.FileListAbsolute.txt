@@ -1,0 +1,11 @@
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\bin\Release\QuickNote.exe.config
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\bin\Release\QuickNote.exe
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\bin\Release\QuickNote.pdb
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.FormStatistic.resources
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.FormNote.resources
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.FormViewNotes.resources
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.Properties.Resources.resources
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.csproj.GenerateResource.Cache
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.csproj.CoreCompileInputs.cache
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.exe
+C:\Users\Tu\Desktop\QuickNote C#\QuickNote\obj\Release\QuickNote.pdb
